@@ -1,0 +1,12 @@
+# editor
+.vscode
+
+# misc
+**/.DS_Store
+
+.env
+
+# python
+**/__pycache__
+**/.ipynb_checkpoints
+**/.tox
